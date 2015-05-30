@@ -1,0 +1,2 @@
+Main-Class: com.github.clock.Main
+Class-Path: args4j-2.32.jar
