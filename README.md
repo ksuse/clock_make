@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # アナログ時計
 
 ## 依存ライブラリ
@@ -30,7 +29,3 @@ java -jar clock.jar [OPTIONS]
 3. makeを実行する．
 
 
-=======
-# make_sample
-Make sample
->>>>>>> cda3049302631e1fad1a1e3546fa21b5a8d8e4d3
